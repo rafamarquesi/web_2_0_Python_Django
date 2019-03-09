@@ -1,0 +1,10 @@
+Arquivo de anotações
+
+# Capítulo 3
+
+-> Vídeo 3
+Mesages status
+Link https://www.w3schools.com/tags/ref_httpmessages.asp
+
+-> Vídeo 4
+Atrributes
