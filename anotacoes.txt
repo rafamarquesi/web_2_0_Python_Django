@@ -7,4 +7,10 @@ Mesages status
 Link https://www.w3schools.com/tags/ref_httpmessages.asp
 
 -> Vídeo 4
-Atrributes
+Attributes
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Attributes
+
+-> Vídeo 5
+Comments and doctype
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#HTML_comments
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_a_HTML_document
