@@ -14,3 +14,11 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting
 Comments and doctype
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#HTML_comments
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_a_HTML_document
+
+-> Vídeo 6
+Separação de Conteúdo
+https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element#Separa%C3%A7%C3%A3o_de_conte%C3%BAdo
+
+-> Vídeo 7
+Conteúdo Textual
+https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element#Conte%C3%BAdo_textual
